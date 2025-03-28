@@ -17,7 +17,7 @@ A full-featured social media application enabling users to register, authenticat
     npx expo start
    ```
 ## Demo Video
-[Watch the demo video](https://hdsvzrvrursprvddhchp.supabase.co/storage/v1/object/sign/cvMedia/socia%20media%20demo.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJjdk1lZGlhL3NvY2lhIG1lZGlhIGRlbW8ubXA0IiwiaWF0IjoxNzMxNjA4MjI1LCJleHAiOjE3NjMxNDQyMjV9.rWXhGvoEN7k4FLAty602hFamXbqtxH27BrMebJlprYc&t=2024-11-14T18%3A17%3A05.695Z)
+[Watch the demo video](https://res.cloudinary.com/dc6gcvzcj/video/upload/v1743158320/WhatsApp_Video_2025-03-28_at_16.03.26_95500b4d_zk4mar.mp4)
 
 ## Screenshots
 
